@@ -1,0 +1,135 @@
+{
+    "Premium-Cars": [
+        {
+            "id": "1",
+            "kode": "A1",
+            "nama": "Nissan Skyline",
+            "harga_sewa": "Rp.3M/Hari",
+            "is_ready": "true",
+            "gambar": "skyline.jpg"
+        },
+        {
+            "id": "2",
+            "kode": "A2",
+            "nama": "GTR",
+            "harga_sewa": "Rp.2M/Hari",
+            "is_ready": "true",
+            "gambar": "gtr.jpg"
+        },
+        {
+            "id": "3",
+            "kode": "A3",
+            "nama": "Lambo",
+            "harga_sewa": "Rp.7M/Hari",
+            "is_ready": "true",
+            "gambar": "lambo.jpg"
+        },
+        {
+            "id": "4",
+            "kode": "A4",
+            "nama": "Supra",
+            "harga_sewa": "Rp.1M/Hari",
+            "is_ready": "true",
+            "gambar": "supra.jpg"
+        },
+        {
+            "id": "5",
+            "kode": "A5",
+            "nama": "RX7",
+            "harga_sewa": "Rp.2M/Hari",
+            "is_ready": "true",
+            "gambar": "rx7.jpg"
+        }
+    ],
+    "Cars": [
+        {
+            "id": "1",
+            "kode": "A1",
+            "nama": "Nissan Skyline",
+            "harga_sewa": "Rp.3M/Hari",
+            "is_ready": "true",
+            "gambar": "skyline.jpg"
+        },
+        {
+            "id": "2",
+            "kode": "A2",
+            "nama": "GTR",
+            "harga_sewa": "Rp.2M/Hari",
+            "is_ready": "true",
+            "gambar": "gtr.jpg"
+        },
+        {
+            "id": "3",
+            "kode": "A3",
+            "nama": "Lambo",
+            "harga_sewa": "Rp.7M/Hari",
+            "is_ready": "true",
+            "gambar": "lambo.jpg"
+        },
+        {
+            "id": "4",
+            "kode": "A4",
+            "nama": "Supra",
+            "harga_sewa": "Rp.1M/Hari",
+            "is_ready": "true",
+            "gambar": "supra.jpg"
+        },
+        {
+            "id": "5",
+            "kode": "A5",
+            "nama": "RX7",
+            "harga_sewa": "Rp.2M/Hari",
+            "is_ready": "true",
+            "gambar": "rx7.jpg"
+        },
+        {
+            "id": "6",
+            "kode": "A6",
+            "nama": "Avanza",
+            "harga_sewa": "Rp.250K/Hari",
+            "is_ready": "true",
+            "gambar": "avanza.jpeg"
+        },
+        {
+            "id": "7",
+            "kode": "A7",
+            "nama": "Pajero",
+            "harga_sewa": "Rp.500K/Hari",
+            "is_ready": "true",
+            "gambar": "pajero.png"
+        },
+        {
+            "id": "8",
+            "kode": "A8",
+            "nama": "Kijang",
+            "harga_sewa": "Rp.500K/Hari",
+            "is_ready": "true",
+            "gambar": "kijang.jpg"
+        },
+        {
+            "id": "9",
+            "kode": "A9",
+            "nama": "Civic",
+            "harga_sewa": "Rp.250K/Hari",
+            "is_ready": "true",
+            "gambar": "civic.jpg"
+        },
+        {
+            "id": "10",
+            "kode": "A10",
+            "nama": "Jazz",
+            "harga_sewa": "Rp.250K/Hari",
+            "is_ready": "true",
+            "gambar": "jazz.jpg"
+        },
+        {
+            "id": "11",
+            "kode": "A11",
+            "nama": "Xenia",
+            "harga_sewa": "Rp.250K/Hari",
+            "is_ready": "true",
+            "gambar": "xenia.jpg"
+        }
+    ],
+    "Garasi": []
+}
